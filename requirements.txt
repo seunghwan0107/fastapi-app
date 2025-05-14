@@ -1,0 +1,15 @@
+numpy==2.2.4
+pandas
+jupyterlab
+seaborn
+matplotlib
+openpyxl
+xlrd
+plotly
+streamlit
+yfinance
+fastapi
+uvicorn
+jinja2
+passlib
+python-multipart
